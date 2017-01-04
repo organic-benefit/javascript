@@ -2,7 +2,7 @@
 
 we want to know about js
 
-https://github.com/getify/You-Dont-Know-JS
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 ---
 
 ## Scope & Closures
